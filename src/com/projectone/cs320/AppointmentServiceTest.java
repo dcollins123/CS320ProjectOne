@@ -41,4 +41,3 @@ public class AppointmentServiceTest {
         assertEquals("New Appointment Description", appointmentService.getAppointment("1").getDescription());
     }
 }
-
